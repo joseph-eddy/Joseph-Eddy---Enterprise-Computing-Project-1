@@ -1,5 +1,8 @@
 Hello! In this repository you will find the following:
-  - "Project 1.zip" - zipped folder containing all the neccessary files for the program to run
+  - "Project 1 - Nile Dot Com - Joseph Eddy" - folder containing all the neccessary files (located in src) for the program to run
+        - "inventory.csv" - contains all the data read into the code
+        - "transactions.csv" - output file for the program
+  - "Project 1 - Screenshots - Joseph Eddy.docx" - screenshots of the program running (required for submission)
   - "Project 1 - Spring 2024.pdf" - project description file from the professor explaining the project and its deliverables
   - "Project 1 Outline.docx" - my personal outline for the project, including a schedule I held myself accountable to
   - "grade screenshot.png" - my grade for this assignment (100%)
